@@ -1,4 +1,4 @@
-#Tailwindcss
+# Tailwindcss
 
 * Frameworks like Bootstrap, Material UI are based on premaid/predefined high level components like navbar, alerts, cards, etc which have set of predifined properties (Eg: Predefined margins, padding, etc).
 * Tailwind is a Utility-first, utility-based low level CSS framework (Very low level CSS classes for every CSS properties). .
