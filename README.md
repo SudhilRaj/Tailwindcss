@@ -1,7 +1,7 @@
 # Tailwindcss
 
 * Frameworks like Bootstrap, Material UI are based on premaid/predefined high level components like navbar, alerts, cards, etc which have set of predifined properties (Eg: Predefined margins, padding, etc).
-* Tailwind is a Utility-first, utility-based low level CSS framework (Very low level CSS classes for every CSS properties). .
+* Tailwind is a Utility-first, utility-based low level CSS framework (Very low level CSS classes for every CSS properties).
 * A giant CSS design system with individual CSS classes for everything - For more flexibile, customizable, and unique designs/components.
 * Huge set of different tiny utility classes which are entirely configurable - We can change/modify every default values in the design system. (Using the taiwind config file - npx tailwindcss init)
 * Following mobile first approach in utilities.
